@@ -4,7 +4,7 @@
 Theme:  I will be looking at Vivaldi's Violin Concertos.  
 
 ## Vavaldi (1678 - 1741)
-Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) 
+Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) This peice is more commonly known for it's first four movements - the four seasons.  
 
 # Week 1
 Task: Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? 
@@ -22,5 +22,14 @@ Another challenge that applies to Vivaldi's Violin Concertos is that the popular
 
 ## Data and Vivaldi's Violin Concertos
 Vivaldi's Violin Concertos and in fact Baroque music as a genre has multiple platforms in which it exists.  It is curated in the simplist form using its Opus number, a nuber which is unique to the work itself allowing any database to identify it.
+
 Valvaldi's Violin Concertos score can be found in many sheet music library's, with many forms, adaptions and variations on the original. Most Baroque peices have been carefull copied and printed from original manuscripcs and reproduced for the masses, becoming comercially democritised and used by many from profesional orchestras to individuals how they wish.  
+
 Valvaldi, being seen as a important figure and composer, being classified as part of the first Vienesse School of composers, alongside Mozart and Beethoven, have been rigiously studied and who's works for many form part of their basic musical education.  Their peices are scrutinised for certain theoretical techniques and practices that are considered vital by many for understanding Western-European classical music and therfroe some under academic scholarly review constantly.  Most recently now in relation to Whilte supremancy and decoloisation, sparking new debates on the hierarchical, high-brow view of certain composers and genres in music and music education.  
+
+##Week 2 
+Task: Download and edit a peice of music on musescore from OMR technology.
+
+#Observations
+The initial OMR technology was pretty accuratate, specifically in terms of notes, pitches and rhythms. 
+Key elements missing: Metadata such as title, composer etc.  Tempo markings and instrumentation (thought violin was a voice)
