@@ -1,3 +1,6 @@
+body {
+  background-color: lightblue;
+}
 # MCA Project
 ## 2449288
 
@@ -36,3 +39,4 @@ Key elements missing: Metadata such as title, composer etc.  Tempo markings and 
 Alterations:  had to change instruments to a  voice and then copy and paste the material onto the new staves, still the staves were not braced the same as the original, had to spend a bit of time discovering how to brace the staves properly.  The mothod I found that worked was by adding in a piano stave which is already braced then changing the cleffs to the correct forms, however this may cause an issue in playback as the computer may think the sound is still a piano rather than a voice.  Perhaps the editorials functions in Musweascore are limited, perhaops this is due to  my own persoinal lack of knopwlegde of musescore, but overall, whilst the presentation may be correct, the further element of if the music created from musescore out of the PDF was played allowed would it have the desired effect the sheet music presented?  Not in the iniitial case of the OMR, it requitred user intervention to alter the sounds.  There is also a question of aaesthetic or practicality here in the limitations of musescore.  (e.g. braced staves or accurate sounding instrumentation!)
 
 PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022/files/9686016/Four.seasons.spring.pdf.pdf)
+
