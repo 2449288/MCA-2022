@@ -1,6 +1,4 @@
-body {
-  background-color: lightblue;
-}
+
 # MCA Project
 ## 2449288
 
