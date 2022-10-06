@@ -5,7 +5,7 @@
 **Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
 ## Vavaldi (1678 - 1741)
->Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between >Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the >four seasons.**  
+>Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the four seasons.**  
 
 # Week 1
 *Task: Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? 
