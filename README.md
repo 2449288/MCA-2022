@@ -1,16 +1,16 @@
 
-# MCA Project
+### MCA Project
 ## 2449288
 
-Theme:  I will be looking at Vivaldi's Violin Concertos.  
+**Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
 ## Vavaldi (1678 - 1741)
-Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) This peice is more commonly known for it's first four movements - the four seasons.  
+>Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between >Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the >four seasons.**  
 
 # Week 1
-Task: Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? 
+*Task: Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? 
 How does your selected theme display some of these challenges? 
-Describe the current manifestations of data relating to your selected theme, discussing how it is presently curated (collected and gathered) and how it is presented, described, and analysed.
+Describe the current manifestations of data relating to your selected theme, discussing how it is presently curated (collected and gathered) and how it is presented, described, and analysed.*
 ## Challenges
 There are many challenges when working with music and music-related data.  While there are many data-bases available storing and descibing vast amounts of music data, from Sheet Music Library's such as IMSLP/Musecore, to Digital libraries such as Spoitfy, there are limitations to music and storing data.  
 Looking at sheet music databases, while the information on these sights can be analaysed for data on the title,composer, quality of said data - a lot of the data is stored as photos or as audio samples.  It required a secondary element such as a human to them turn that photo into undertsanding the music.  If you can even call it music in that pure form. 
@@ -29,12 +29,16 @@ Valvaldi's Violin Concertos score can be found in many sheet music library's, wi
 Valvaldi, being seen as a important figure and composer, being classified as part of the first Vienesse School of composers, alongside Mozart and Beethoven, have been rigiously studied and who's works for many form part of their basic musical education.  Their peices are scrutinised for certain theoretical techniques and practices that are considered vital by many for understanding Western-European classical music and therfroe some under academic scholarly review constantly.  Most recently now in relation to Whilte supremancy and decoloisation, sparking new debates on the hierarchical, high-brow view of certain composers and genres in music and music education.  
 
 ## Week 2 
-Task: Download and edit a peice of music on musescore from OMR technology.
+*Task: Download and edit a peice of music on musescore from OMR technology.*
 
-# Observations
+### Observations
 The initial OMR technology was pretty accuratate, specifically in terms of notes, pitches and rhythms. 
 Key elements missing: Metadata such as title, composer etc.  Tempo markings and instrumentation (thought violin was a voice) 
 Alterations:  had to change instruments to a  voice and then copy and paste the material onto the new staves, still the staves were not braced the same as the original, had to spend a bit of time discovering how to brace the staves properly.  The mothod I found that worked was by adding in a piano stave which is already braced then changing the cleffs to the correct forms, however this may cause an issue in playback as the computer may think the sound is still a piano rather than a voice.  Perhaps the editorials functions in Musweascore are limited, perhaops this is due to  my own persoinal lack of knopwlegde of musescore, but overall, whilst the presentation may be correct, the further element of if the music created from musescore out of the PDF was played allowed would it have the desired effect the sheet music presented?  Not in the iniitial case of the OMR, it requitred user intervention to alter the sounds.  There is also a question of aaesthetic or practicality here in the limitations of musescore.  (e.g. braced staves or accurate sounding instrumentation!)
 
 PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022/files/9686016/Four.seasons.spring.pdf.pdf)
+
+
+## Week 3
+*TASK:  In the space provided on the verovio.html page, compare 3 elements in the MusicXML file to the corresponding ones in MEI. Think about: which attributes can be employed in each standard, which parents and children can be used, and try to think of the implications of these differences.* 
 
