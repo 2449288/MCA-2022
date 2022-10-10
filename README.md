@@ -6,7 +6,7 @@
 | :---: | :------: |
 | 1 | Title and Introduction|
 | 2 | [Week 1] (# Week 1) |
-| 3 | Week 2 |
+| 3 | [Week 2] (https://2449288.github.io/MCA-2022/#week-2) |
 | 4 | Week 3 |
 | 5 | Week 4 |
 | 6 | Week 5 |
