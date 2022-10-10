@@ -1,5 +1,5 @@
 
-### MCA Project
+# MCA Project
 ## 2449288
 
 | Page | Contents |
@@ -11,6 +11,7 @@
 | 5 | Week 4 |
 | 6 | Week 5 |
 
+# **Title and Introduction**
 
 **Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
