@@ -24,8 +24,29 @@
 </head>
 <body>
     <div class="header"><h1>Week 3</h1>
-        <p>[<p>Element 1: Beat 1, Bar 1
-The main difference between the 2 coding languages is that in MEI, the attributes all describe the specific note, whereas in the XML file, the attributes only describe the position of the note, all the extra information about the pitch, duration etc are in separate tags as children of the note tag itself.  </p>]
+        <p>#<strong>Differences between MXL and MEI</strong></p>
+<p>##<strong>Difference 1: Beat 1, Bar 1</strong></p>
+<p>###<em>Differences:</em>
+The main difference between the 2 coding languages is that in MEI the attributes all describe the specific note. E.g. duration, octave, pitch, stem direction etc. 
+In the XML file, the attributes only describe the position of the note on the page. E.g. X and Y coordinates.  All the extra information about the pitch, duration etc are in separate tags as children of the note tag itself.  </p>
+<p>###<em>Implications:</em>
+ The MEI file is much easier for a human to read as you simply just need to find the note and read along thew page like you would any other page and the attributes or information you need about the note is displayed, whereas in MXL, you have to further find the tag you are looking for e.g. Pitch and read down all the sub tags for the information you require.  However, this way of creating multiple tags within tags, more parent/children relations could perhaps be wearier for organising and sorting the data, and perhaps easier for the computer to read.  However, this ends up with having a lot longer lines of code 8324 in XML vs 1723 in MEI which could affect the file size and therefore the readability/loading time for the files and also impact storage for the user.  </p>
+<p>##<strong>Difference 2: Piano dynamic marking, Violin 1, Bar 3</strong> </p>
+<blockquote>
+<p>XML:  Part P2 &gt; measure 3 &gt; direction (placement = below) &gt;Direction type &gt; dynamics (cords)&gt; p
+MEI: measure &gt; dynamics (place, below, staff 2) value etc // next line, staff 3 etc.  all at the bottom after all the staff information for notes etc.  </p>
+<p>###<em>Differences</em>
+In the XML code, the dynamics tag is placed in the position of where it is in relation to the other notes on the stave. In tag ‘measure 3’ standing for bar 3, the code explains along the bar in order, with the dynamic information in between the 8th and 9th notes.  On the other hand, with the MEI code, all the staff notation is coded first, and then before the measure tag is closed, all the dynamic information for each of the staves are shown.  Where XML works in parts, reading horizontally, the MEI effectively reads vertically, and separated out notes and added metadata after.  </p>
+<p>###<em>Implications:</em><br>The MEI code is better at distinguishing between the music itself and the metadata, making its style clearer to follow. The XML code for the piano dynamic is a tag in itself, having parent tags of dynamics and direction type.  Having the direction type first is somewhat confusing and requires the musical notation in front of you in order to find the code to easily and quickly navigate.  On the contrary, the MEI code is arguably laid out clear enough to not have the music in front of you. Particularly when seeking out a certain dynamic marking in the code, having the dynamics markings at the end of the measure tag meant navigating simple and straight forward.   Furthermore, by having all the attributes of the dynamics include the place and length of the dynamic marking, further eases the simplicity of finding such item in the long stream of code, which XML doesn’t possess.  </p>
+<p>##<strong>Difference 3: Staccato marking on first quaver of 15th bar, Solo violin.</strong>
+MEI: Measure (15)&gt;Staff(1)&gt;Layer (1)&gt;Beam&gt;Note&gt;Artic (stacc)
+XML: measure (15)&gt;note&gt;notations&gt;articulations&gt;staccato.</p>
+<p>###<em>Differences:</em>
+The MEI has more layers of tags before the articulation than the XML, but is laid out better, with each layer being indented in the code.  In the XML, there are many tags on the same indent as notations, including voice, steam, beam and pitch, which create a messier viewing experience.  </p>
+<p>###<em>Implications:</em> 
+As previously mentioned, this makes the XML code less human friendly than the MEI.  The XML here puts the slur and articulations together under the parent of notations, interestingly almost following the MEI’s approach of the dynamic marking, treating it as meta data.  While both work it is easier in the XML for this data to be missed as there are so many tags affecting the note, whereas in the MEI the articulation is the only tag below that note, and the slur is at the end of all the information about each of the notes.  </p>
+</blockquote>
+
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
