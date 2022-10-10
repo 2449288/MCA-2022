@@ -2,10 +2,22 @@
 ### MCA Project
 ## 2449288
 
+| Page | Contents |
+| :---: | :------: |
+| 1 | Title and Introduction|
+| 2 | Week 1 |
+| 3 | Week 2 |
+| 4 | Week 3 |
+| 5 | Week 4 |
+| 6 | Week 5 |
+
+*****New Page*****
+
 **Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
 ## Vavaldi (1678 - 1741)
 >Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the four seasons.**  
+
 
 # Week 1
 *Task: Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? 
