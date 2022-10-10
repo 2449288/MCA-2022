@@ -5,7 +5,7 @@
 | Page | Contents |
 | :---: | :------: |
 | 1 | Title and Introduction|
-| 2 | [Week 1](# Week 1) |
+| 2 | [Week 1] (# Week 1) |
 | 3 | Week 2 |
 | 4 | Week 3 |
 | 5 | Week 4 |
