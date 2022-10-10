@@ -54,3 +54,4 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ## Week 3
 *TASK:  In the space provided on the verovio.html page, compare 3 elements in the MusicXML file to the corresponding ones in MEI. Think about: which attributes can be employed in each standard, which parents and children can be used, and try to think of the implications of these differences.* 
 
+[Veroivo File](https://github.com/2449288/MCA-2022/blob/master/verovio.html)
