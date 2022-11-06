@@ -8,8 +8,12 @@
 | 2 | [Week 1](https://github.com/2449288/MCA-2022/blob/master/README.md#week-1) |
 | 3 | [Week 2](https://2449288.github.io/MCA-2022/#week-2) |
 | 4 | [Week 3](https://2449288.github.io/MCA-2022/#week-3) |
-| 5 | Week 4 |
-| 6 | Week 5 |
+| 5 | [Week 4](https://github.com/2449288/MCA-2022/blob/master/README.md#week-4) |
+| 6 | [Week 5] |
+| 7 | [Week 7] |
+| 8 | [Week 8] |
+| 9 | [Week 9] |
+
 
 # **Title and Introduction**
 
