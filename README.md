@@ -56,3 +56,28 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 [`MEI file`](https://github.com/2449288/MCA-2022/blob/master/data/fourseasons.mei) // [`XML File`](https://github.com/2449288/MCA-2022/blob/master/data/four%20seasons.musicxml) //
 [`Veroivo File`](https://github.com/2449288/MCA-2022/blob/master/verovio.html)
+
+
+## Week 4
+
+
+
+
+## Week 5
+
+
+
+
+## Week 7
+
+
+
+## Week 8
+
+
+
+
+## Week 9 
+
+
+
