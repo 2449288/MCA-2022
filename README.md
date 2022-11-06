@@ -63,7 +63,8 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 
 ## Week 4
-
+*TASK: 1. Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.
+2. Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
 
 
 
