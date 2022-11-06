@@ -45,7 +45,7 @@ Valvaldi's Violin Concertos score can be found in many sheet music library's, wi
 
 Valvaldi, being seen as a important figure and composer, being classified as part of the first Vienesse School of composers, alongside Mozart and Beethoven, have been rigiously studied and who's works for many form part of their basic musical education.  Their peices are scrutinised for certain theoretical techniques and practices that are considered vital by many for understanding Western-European classical music and therfroe some under academic scholarly review constantly.  Most recently now in relation to Whilte supremancy and decoloisation, sparking new debates on the hierarchical, high-brow view of certain composers and genres in music and music education.  
 
-## Week 2 
+# Week 2 
 *Task: Download and edit a peice of music on musescore from OMR technology.*
 
 ### Observations
@@ -56,37 +56,37 @@ Alterations:  had to change instruments to a  voice and then copy and paste the 
 PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022/files/9686016/Four.seasons.spring.pdf.pdf)
 
 
-## Week 3
+# Week 3
 *TASK:  In the space provided on the verovio.html page, compare 3 elements in the MusicXML file to the corresponding ones in MEI. Think about: which attributes can be employed in each standard, which parents and children can be used, and try to think of the implications of these differences.* 
 
 [`MEI file`](https://github.com/2449288/MCA-2022/blob/master/data/fourseasons.mei) // [`XML File`](https://github.com/2449288/MCA-2022/blob/master/data/four%20seasons.musicxml) //
 [`Veroivo File`](https://github.com/2449288/MCA-2022/blob/master/verovio.html)
 
 
-## Week 4
+# Week 4
 *TASK: 1. Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.
 2. Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
 
 
 
-## Week 5
+# Week 5
 *TASK: 1. Create a metadata schema by listing the elements (or a subset of at least 5 elements) that your group chose back on Tuesday.
 2. Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities as discussed in yesterday’s lecture using the @auth.uri attribute. Be sure to follow the MEI metadata standards (https://music-encoding.org/guidelines/v4/content/metadata.html) for structuring your MEI header.*
 
 
 
-## Week 7
+# Week 7
 
 
 
-## Week 8
-
-
-
-
-## Week 9 
+# Week 8
 
 
 
 
-## Week 10
+# Week 9 
+
+
+
+
+# Week 10
