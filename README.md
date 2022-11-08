@@ -76,7 +76,12 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 ### Part 2
 
-(![Piano Roll](https://user-images.githubusercontent.com/114147824/200526293-37ed23ce-0c9c-4a72-a798-14a0f5395b61.png)
+**Piano Roll of Violin 1, bars 1-17.** 
+![Piano Roll](https://user-images.githubusercontent.com/114147824/200526293-37ed23ce-0c9c-4a72-a798-14a0f5395b61.png)
+
+**Pitch Historgram of Valvaldi's 'Spring'**
+![Pitch Histogram](https://user-images.githubusercontent.com/114147824/200526718-655e957b-9bd0-457d-8485-aa239d1a240b.png)
+
 
 
 # Week 5
