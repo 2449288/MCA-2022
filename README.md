@@ -72,7 +72,7 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 2. Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
 
 ### Part 1
-[`jSymbolic Analysis Results`]()
+[`jSymbolic Analysis Results`](https://github.com/2449288/MCA-2022/blob/master/jsymbolic%20analaysis%20results.xlsb.xlsx)
 
 ### Part 2
 
