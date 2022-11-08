@@ -90,6 +90,15 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 *TASK: 1. Create a metadata schema by listing the elements (or a subset of at least 5 elements) that your group chose back on Tuesday.
 2. Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities as discussed in yesterday’s lecture using the @auth.uri attribute. Be sure to follow the MEI metadata standards (https://music-encoding.org/guidelines/v4/content/metadata.html) for structuring your MEI header.*
 
+ **Metadata schema**
+1.	Title
+2.	subtitle
+3.	Composer
+4.	Date
+5.	Copyright
+  
+  [`MEI FILE with schema and authorities`]
+
 
 
 # Week 7
