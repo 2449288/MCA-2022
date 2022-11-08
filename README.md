@@ -1,4 +1,4 @@
-
+<div align="center">
 # MCA Project
 ## 2449288
 
@@ -105,3 +105,6 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 
 # Week 10
+
+  
+  </div>
