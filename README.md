@@ -113,11 +113,24 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   
   
 ***Task 1: Find and describe 3 audio tracks relating to your theme**
-- [x]Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
+- [x] Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
 - [x] Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
   
-  
-  
+  | Content | Track 1 | Track 2 | Track 3 |
+  | :------: | :-----: | :------| :-------: |
+  | Link to recording | `Insert Link` | `Youtube link (https://www.youtube.com/watch?v=ZPdk5GaIDjo)` | `Youtube Link (https://www.youtube.com/watch?v=jGFqtOdEIWk)` | 
+  | Title | Violin Concerto in E major, RV 269 ‘La primavera’ | Vivaldi Four Seasons: Winter (L'Inverno), original version. Freivogel & Voices of Music RV 297 4K | Vivaldi – Spring (The Four Seasons)|
+  | Artist | Canzona Music | Voices of Music | Rousseau |
+  | Composer | Antonio Vivaldi | Antonio Vivaldi | Antonio Vivaldi |
+  | Copyright info | Creative Commons Attribution 4.0 | No information – in public domain in YouTube | No information – in public domain in YouTube |
+  | Genre/Type of recording | Baroque Recording | Baroque – Fundraiser Concert | Modern Piano cover |
+  | Instruments | Classical ensemble | Baroque ensemble | Solo piano |
+  | Source | IMSLP | YouTube | YouTube |
+  | File/audio format | MP3 | MP3 | MP3 |
+  | Number of channels | 2 | 2 | 2 |
+  | Sample rate | 24kHz	| 44.1KHz | **need to fill in**
+  | Bits per second | 64kb/s | **need to fill in** | **need to fill in** |
+  | Duration | 12:06 minutes	| 9:26 minutes |	4:01 minutes |
   
 ***Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
 - [x]	For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.
