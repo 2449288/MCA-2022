@@ -137,7 +137,31 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 - [x] Export the waveform and spectrogram in an image format for your GitHub portfolio.
 - [x]	In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
 
+ ## **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
+  **Waveform**
+![Waveformtrack1](https://user-images.githubusercontent.com/114147824/201955662-aad77c36-a4e8-431c-8033-03b6451be789.png)
 
+  
+  **Spectrogram**
+![Spectrogramtrack1](https://user-images.githubusercontent.com/114147824/201954605-74e83da8-16f4-40a0-9d67-3352c6f432ba.png)
+
+  
+** ## **TRACK 2:  Vivaldi Four Seasons: Winter (L'Inverno)**
+  **Waveform**
+![Waveformtrack2](https://user-images.githubusercontent.com/114147824/201955031-50d9ec6b-8ece-4f84-87a1-b021f3210a95.png)
+
+  
+  **Spectrogram**
+ ![Spectrogramtrack2](https://user-images.githubusercontent.com/114147824/201954771-01aea01f-7e07-48fe-8950-7bab123ae2bb.png)
+
+
+   ## **TRACK 3: Vivaldi – Spring - Piano**
+  **Waveform**
+  ![Waveformtrack3](https://user-images.githubusercontent.com/114147824/201955160-e37d2b04-ba24-4c23-b245-d6efa38fac46.png)
+
+  
+  **Spectrogram**
+![Spectrogramtrack3](https://user-images.githubusercontent.com/114147824/201955409-332fde57-6978-4af3-afd2-f3ace62c64f0.png)
 
 
 # Week 9 
