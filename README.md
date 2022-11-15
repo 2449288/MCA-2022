@@ -4,8 +4,8 @@
 # MCA Project
 ## 2449288
 
-| Contents |
-| :------: |
+| Title | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 |
+| :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | [Title and Introduction](https://github.com/2449288/MCA-2022/blob/master/README.md#title-and-introduction)|
 | [Week 1](https://github.com/2449288/MCA-2022/blob/master/README.md#week-1) |
 | [Week 2](https://2449288.github.io/MCA-2022/#week-2) |
@@ -110,6 +110,19 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 
 # Week 8
+  
+  
+***Task 1: Find and describe 3 audio tracks relating to your theme**
+1.	Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
+2.	Identify and list (in a table) the most important technical and non-technical metadata associated with each track. 
+  
+  
+  
+  
+**Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
+1.	For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.
+2.	Export the waveform and spectrogram in an image format for your GitHub portfolio.
+3.	In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
 
 
 
