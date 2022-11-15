@@ -4,8 +4,8 @@
 # MCA Project
 ## 2449288
 
-| Title | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 |
-| :----------------------------------------------------------------------------------------------: |
+| Contents |
+| ----- |
 | [Title and Introduction](https://github.com/2449288/MCA-2022/blob/master/README.md#title-and-introduction)|
 | [Week 1](https://github.com/2449288/MCA-2022/blob/master/README.md#week-1) |
 | [Week 2](https://2449288.github.io/MCA-2022/#week-2) |
