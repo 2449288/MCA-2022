@@ -128,8 +128,8 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   | **Source** | IMSLP | YouTube | YouTube |
   | **File/audio format** | MP3 | MP3 | MP3 |
   | **Number of channels** | 2 | 2 | 2 |
-  |**Sample rate** | 24kHz	| 44.1KHz | **need to fill in**
-  | **Bits per second** | 64kb/s | **need to fill in** | **need to fill in** |
+  |**Sample rate** | 24kHz	| 44.1KHz | 44.1Khz |
+  | **Bits per second** | 64kb/s | 128kb/s | 128kb/s |
   | **Duration** | 12:06 minutes	| 9:26 minutes |	4:01 minutes |
   
 ***Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
