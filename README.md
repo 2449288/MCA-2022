@@ -176,9 +176,52 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  T gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  In my examples above, the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
 
 # Week 9 
+##Task 1: Extract features
+*Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)
+For each track:
+Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram
+Take a screenshot of the panes  (or export the annotation layers as an image)
+Save the three annotation layers as individual CSV files (i.e. the raw data)*
+
+##Task 2: Compute and visualize features with histograms
+*For each track and feature type extracted in task 1:
+In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features
+Compute and visualize the histogram of the features for the three tracks
+Hint: Take a look at the template on Moodle
+For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
+Optional - Add more tracks (from outside your portfolio theme) to provide further context for your discussion.*
+
+## Task 1
+Spectrogram
+Image file 1
+Image file 2
+Image file 3
+
+Mel Frequency Cepstral Coefficients
+Image file 1
+Image file 2
+Image file 3
+
+Chromagram
+Image file 1
+Image file 2
+Image file 3
+
+
+##Task 2
+MFCC
+Image file 1
+Image file 2
+Image file 3
+
+Chromagram
+Image file 1
+Image file 2
+Image file 3
 
 
 
+Recording
 
 # Week 10
 
