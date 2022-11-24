@@ -230,6 +230,19 @@ Similarity graphs
 ![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
 ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
 
+##Task 2: Transcription
+Image of score pre-transcription
 
-  
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-2.png)
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-3.png)
+
+
+Image of score post-transciption
+
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-1.png)
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-2.png)
+
+
+
   </div>
