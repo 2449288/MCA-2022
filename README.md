@@ -183,7 +183,7 @@ Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency
 Take a screenshot of the panes  (or export the annotation layers as an image)
 Save the three annotation layers as individual CSV files (i.e. the raw data)*
 
-##Task 2: Compute and visualize features with histograms
+## Task 2: Compute and visualize features with histograms
 *For each track and feature type extracted in task 1:
 In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features
 Compute and visualize the histogram of the features for the three tracks
@@ -192,7 +192,7 @@ For either the MFCC or Chroma feature, compare the histograms for the 3 tracks a
 Optional - Add more tracks (from outside your portfolio theme) to provide further context for your discussion.*
 
 ## Task 1
-###Spectrogram
+### Spectrogram
   
   *Spring Movement 1*
   
@@ -206,7 +206,7 @@ Optional - Add more tracks (from outside your portfolio theme) to provide furthe
   
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3spectrogram.png)
 
-###Mel Frequency Cepstral Coefficients
+### Mel Frequency Cepstral Coefficients
   
    *Spring Movement 1*
   
@@ -220,7 +220,7 @@ Optional - Add more tracks (from outside your portfolio theme) to provide furthe
   
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3mfccimage.png)
 
-###Chromagram
+### Chromagram
   
   *Spring Movement 1*
   
@@ -235,15 +235,34 @@ Optional - Add more tracks (from outside your portfolio theme) to provide furthe
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
 
 
-##Task 2
+## Task 2
 MFCC
+  
+    *Spring Movement 1*
+  
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/histogrammvt1mfcc.png)
+  
+    *Spring Movement 2*
+  
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2historgrammfcc.png)
+  
+    *Spring Movement 3*
+  
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgrammfcc.png)
 
 Chromagram
+  
+  
+    *Spring Movement 1*
+  
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1histagramchromagram.png)
+  
+      *Spring Movement 2*
+  
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2histogramchromagram.png)
+  
+    *Spring Movement 3*
+  
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgramchromagram.png)
 
 
@@ -251,13 +270,13 @@ Chromagram
 Recording
 
 # Week 10
-Task 1: Similarity Matrix with own theme tracks.
+## Task 1: Similarity Matrix with own theme tracks.
 *Similarity graphs*
   
 ![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
 ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
 
-##Task 2: Transcription
+## Task 2: Transcription
 *Image of score pre-transcription*
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
