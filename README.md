@@ -203,7 +203,7 @@ Mel Frequency Cepstral Coefficients
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3mfccimage.png)
 
 Chromagram
-![Image file 1]
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1chromagramimageUPDATED.png)
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt3chromagramimage.png) 
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
 
