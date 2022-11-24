@@ -288,6 +288,7 @@ Recording
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-2.png)
 
+**Comparison of Results**
 
-
+There is very little similarity at all between the two files, that frankly it is hard to tell they are related in any way.  A first look, they appear almost the opposit of eaach.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working at all. 
   </div>
