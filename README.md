@@ -192,19 +192,28 @@ For either the MFCC or Chroma feature, compare the histograms for the 3 tracks a
 Optional - Add more tracks (from outside your portfolio theme) to provide further context for your discussion.*
 
 ## Task 1
-Spectrogram
+###Spectrogram
+  *Spring Movement 1*
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/spring%20mvt1%20spectrogram.png)
+  *Spring Movement 2*
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2spegrtrogramimage.png)
+  *Spring Movement 3*
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3spectrogram.png)
 
-Mel Frequency Cepstral Coefficients
+###Mel Frequency Cepstral Coefficients
+   *Spring Movement 1*
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1mfccimage.png)
+  *Spring Movement 2*
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2mfccimage.png)
+  *Spring Movement 3*
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3mfccimage.png)
 
-Chromagram
+###Chromagram
+  *Spring Movement 1*
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1chromagramimageUPDATED.png)
+  *Spring Movement 2*
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt3chromagramimage.png) 
+  *Spring Movement 3*
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
 
 
@@ -225,19 +234,19 @@ Recording
 
 # Week 10
 Task 1: Similarity Matrix with own theme tracks.
-Similarity graphs
+*Similarity graphs*
   
 ![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
 ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
 
 ##Task 2: Transcription
-Image of score pre-transcription
+*Image of score pre-transcription*
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-2.png)
 
 
-Image of score post-transciption
+*Image of score post-transcription*
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-2.png)
