@@ -194,18 +194,18 @@ Optional - Add more tracks (from outside your portfolio theme) to provide furthe
 ## Task 1
 Spectrogram
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/spring%20mvt1%20spectrogram.png)
-Image file 2
-Image file 3
+![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2spegrtrogramimage.png)
+![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3spectrogram.png)
 
 Mel Frequency Cepstral Coefficients
-Image file 1
-Image file 2
-Image file 3
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1mfccimage.png)
+![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2mfccimage.png)
+![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3mfccimage.png)
 
 Chromagram
-Image file 1
-Image file 2
-Image file 3
+![Image file 1]
+![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt3chromagramimage.png) 
+![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
 
 
 ##Task 2
