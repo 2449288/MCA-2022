@@ -210,14 +210,14 @@ Chromagram
 
 ##Task 2
 MFCC
-Image file 1
-Image file 2
-Image file 3
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/histogrammvt1mfcc.png)
+![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2historgrammfcc.png)
+![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgrammfcc.png)
 
 Chromagram
-Image file 1
-Image file 2
-Image file 3
+![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1histagramchromagram.png)
+![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2histogramchromagram.png)
+![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgramchromagram.png)
 
 
 
