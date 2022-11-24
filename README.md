@@ -224,6 +224,10 @@ Chromagram
 Recording
 
 # Week 10
+Task 1: Similarity Matrix with own theme tracks.
+Similarity graphs
+![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png) ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
+
 
   
   </div>
