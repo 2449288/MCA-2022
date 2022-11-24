@@ -235,7 +235,6 @@ Image of score pre-transcription
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-2.png)
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-3.png)
 
 
 Image of score post-transciption
