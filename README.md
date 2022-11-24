@@ -290,5 +290,13 @@ Recording
 
 **Comparison of Results**
 
-There is very little similarity at all between the two files, that frankly it is hard to tell they are related in any way.  A first look, they appear almost the opposit of eaach.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working at all. 
+There is very little similarity at all between the two files, that frankly it is hard to tell they are related in any way.  A first look, they appear almost the opposite of each.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working at all. What is most interesting is that even if completely different, the scoring has picked up that there are multiple notes being played, even if transcribed this as piano chords.   
+  
+When listening again, all you hear predominantly is clashes and dissonances, not the tuneful melody of the famous Vivaldi piece, despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches.  (centring around an E) For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers and a quaver motif in the first full bar of both the original and the transcripted version. 
+  
+Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
+  
+  
+  (222 words)
+
   </div>
