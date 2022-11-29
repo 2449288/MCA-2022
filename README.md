@@ -101,7 +101,7 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 4.	Date
 5.	Copyright
   
-  [`MEI FILE with schema and authorities`]
+  [`MEI FILE with schema and authorities`](https://github.com/2449288/MCA-2022/blob/master/fourseasons%20MEI%20with%20metadata%20schema%20and%20authoritiesEDITED.mei)
 
 
 
