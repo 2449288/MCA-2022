@@ -270,13 +270,19 @@ Chromagram
 Recording
 
 # Week 10
-## Task 1: Similarity Matrix with own theme tracks.
+  
+## **Task 1: Similarity Matrix
+Open the same Python notebook from Tuesday's group activity.  Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab).  Generate a similarity matrix. This involves:Extracting the Chroma features in SonicVisualizer, Exporting the features as a CSV.  Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio**
+  
 *Similarity graphs*
   
 ![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
 ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
+  
+##  **Task 2: Transcription
+Open your piece of music from Week 2 in MuseScore. Export it as a WAV file and as an image file.  Open the WAV file in SonicVisualizer.  Transcribe the file using the same process as the Group activity on Tuesday.  Open the MIDI file in MuseScore. Export it as an image.  In your portfolio, display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)**
 
-## Task 2: Transcription
+  
 *Image of score pre-transcription*
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
@@ -290,14 +296,12 @@ Recording
 
 **Comparison of Results**
 
-There is very little similarity at all between the two files, that frankly it is hard to tell they are related in any way.  A first look, they appear almost the opposite of each.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working at all. What is most interesting is that even if completely different, the scoring has picked up that there are multiple notes being played, even if transcribed this as piano chords.   
+There is very little similarity at all between the two files.  A first look, they appear almost the opposite of each.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working. Despite this, the scoring has picked up that there are multiple notes being played, even if transcribed as piano chords.   
   
-When listening again, all you hear predominantly is clashes and dissonances, not the tuneful melody of the famous Vivaldi piece, despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches.  (centring around an E) For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers and a quaver motif in the first full bar of both the original and the transcripted version. 
+When listening again, you predominantly here clashes and dissonances, not the tuneful melody of the famous Vivaldi piece.  Despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches. For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers-quaver motif in the first full bar of both the original and the transcripted version. 
   
 Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
   
-  
-  (222 words)
 
  </div>
 
