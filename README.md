@@ -1,4 +1,4 @@
-<center>
+<div style="text-align:center">
   
   
 # MCA Project
@@ -299,4 +299,6 @@ Overall, however this is a fairly unsuccessful transcription, showing the limita
   
   (222 words)
 
-  </center>
+ </div>
+
+ 
