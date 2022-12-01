@@ -118,7 +118,14 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 # Week 7
 
-[`CSS File with Metadata in Header`]()
+**Task**
+***1.**	Create a second version of your MEI file with the updated metadata with enlarged genre classifications, Specific licensing data (consider Creative Commons licenses) and any other metadata values that you think could be enhanced or modified*
+
+***2.**	Render your revised MEI metadata along with your score on an HTML page.* 
+
+
+
+[`HTML Page with Metadata in Header`]()
 
 # Week 8
   
