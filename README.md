@@ -325,9 +325,8 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 *Open the same Python notebook from Tuesday's group activity.  Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab).  Generate a similarity matrix. This involves:Extracting the Chroma features in SonicVisualizer, Exporting the features as a CSV.  Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio*
   
 *Similarity graphs*
-  
-![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
-![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
+  ![similaritymatrixWEEK10](https://user-images.githubusercontent.com/114147824/205105295-5c368c62-3bda-400b-8780-182f650b9f49.png)
+![similaritymatrix2](https://user-images.githubusercontent.com/114147824/205105352-5878edb0-e8cd-4956-bbe0-49ae6aeefe3f.png)
   
 ##  **Task 2: Transcription**
 
@@ -336,14 +335,14 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   
 **Image of score pre-transcription**
 
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-2.png)
+![four seasonsIMAGEWEEK10-1](https://user-images.githubusercontent.com/114147824/205105058-b1842561-1cd4-45cc-81d8-6af6b5814c9a.png)
+![four seasonsIMAGEWEEK10-2](https://user-images.githubusercontent.com/114147824/205105131-b8eb5107-dc71-4e4d-afcb-455408a3be20.png)
 
 
 **Image of score post-transcription**
 
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-1.png)
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-2.png)
+![fourseasonstransciptedWEEK10image-1](https://user-images.githubusercontent.com/114147824/205105196-bf9e277e-e723-48ab-ad03-5e47e358d879.png)
+![fourseasonstransciptedWEEK10image-2](https://user-images.githubusercontent.com/114147824/205105216-b859a32c-3f2a-40bf-aa29-52c4256b09e2.png)
 
 **Comparison of Results**
 
