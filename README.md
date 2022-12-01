@@ -71,13 +71,19 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 
 # Week 4
-*TASK: 1. Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.
-2. Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
+
+
+*TASK: **1.** Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.*
+
+***2.** Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
 
 ### Part 1
+
+
 [`jSymbolic Analysis Results`](https://github.com/2449288/MCA-2022/blob/master/jsymbolic%20analaysis%20results.xlsb.xlsx)
 
 ### Part 2
+
 
 **Piano Roll of Violin 1, bars 1-17.** 
 
@@ -92,8 +98,10 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 
 # Week 5
-*TASK: 1. Create a metadata schema by listing the elements (or a subset of at least 5 elements) that your group chose back on Tuesday.
-2. Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities as discussed in yesterday’s lecture using the @auth.uri attribute. Be sure to follow the MEI metadata standards (https://music-encoding.org/guidelines/v4/content/metadata.html) for structuring your MEI header.*
+
+
+*TASK: **1.** Create a metadata schema by listing the elements (or a subset of at least 5 elements).*
+***2.** Modify your MEI document according to the schema that you have created. Where possible, enrich your data by linking it to existing authorities as discussed in yesterday’s lecture using the @auth.uri attribute. Be sure to follow the MEI metadata standards (https://music-encoding.org/guidelines/v4/content/metadata.html) for structuring your MEI header.*
 
  **Metadata schema**
 1.	Title
@@ -108,12 +116,12 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 # Week 7
 
-
+[`CSS File with Metadata in Header`]()
 
 # Week 8
   
   
-**Task 1: Find and describe 3 audio tracks relating to your theme**
+## **Task 1: Find and describe 3 audio tracks relating to your theme**
   
 *1. Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.*
 *2. Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
@@ -134,13 +142,14 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   | **Bits per second** | 64kb/s | 128kb/s | 128kb/s |
   | **Duration** | 12:06 minutes	| 9:26 minutes |	4:01 minutes |
   
-**Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
+## **Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
   
 *1. For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.* 
-*2. Export the waveform and spectrogram in an image format for your GitHub portfolio. 3. In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
+*2. Export the waveform and spectrogram in an image format for your GitHub portfolio.*
+*3. In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
 *3. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
 
- ## **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
+### **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
   **Waveform**
   
 ![Waveformtrack1](https://user-images.githubusercontent.com/114147824/201955662-aad77c36-a4e8-431c-8033-03b6451be789.png)
@@ -151,7 +160,7 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ![Spectrogramtrack1](https://user-images.githubusercontent.com/114147824/201954605-74e83da8-16f4-40a0-9d67-3352c6f432ba.png)
 
   
-## **TRACK 2:  Vivaldi Four Seasons: Winter (L'Inverno)**
+  ### **TRACK 2:  Vivaldi Four Seasons: Winter (L'Inverno)**
   **Waveform**
   
 ![Waveformtrack2](https://user-images.githubusercontent.com/114147824/201955031-50d9ec6b-8ece-4f84-87a1-b021f3210a95.png)
@@ -162,7 +171,7 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
  ![Spectrogramtrack2](https://user-images.githubusercontent.com/114147824/201954771-01aea01f-7e07-48fe-8950-7bab123ae2bb.png)
 
 
-   ## **TRACK 3: Vivaldi – Spring - Piano**
+### **TRACK 3: Vivaldi – Spring - Piano**
   
   **Waveform**
   
@@ -176,23 +185,20 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   
   **Time-frequency analysis vs Waveform analaysis**
   
-  A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  T gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  In my examples above, the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
+A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  T gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  In my examples above, the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
 
 # Week 9 
+
+
 ## Task 1: Extract features
+
 *1. Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)*
 *2. For each track:*
 *Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram*
 *Take a screenshot of the panes  (or export the annotation layers as an image)*
 *Save the three annotation layers as individual CSV files (i.e. the raw data)*
 
-## Task 2: Compute and visualize features with histograms
-*For each track and feature type extracted in task 1:*
-*1. In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features*
-*2. Compute and visualize the histogram of the features for the three tracks*
-3. For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
 
-## Task 1
 ### Spectrogram
   
   *Spring Movement 1*
@@ -236,39 +242,50 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
 
 
-## Task 2
-MFCC
+
+## Task 2: Compute and visualize features with histograms
+
+
+*For each track and feature type extracted in task 1:*
+*1. In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features*
+*2. Compute and visualize the histogram of the features for the three tracks*
+3. For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
+
+
+### **MFCC**
   
-    *Spring Movement 1*
+  
+  **Spring Movement 1**
   
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/histogrammvt1mfcc.png)
   
-    *Spring Movement 2*
+ **Spring Movement 2**
   
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2historgrammfcc.png)
   
-    *Spring Movement 3*
+ **Spring Movement 3**
   
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgrammfcc.png)
 
-Chromagram
+
+### **Chromagram**
   
   
-    *Spring Movement 1*
+  **Spring Movement 1**
   
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1histagramchromagram.png)
   
-      *Spring Movement 2*
+**Spring Movement 2**
   
 ![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2histogramchromagram.png)
   
-    *Spring Movement 3*
+**Spring Movement 3**
   
 ![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgramchromagram.png)
 
 
 
-Recording
+### **Recording**
 
 # Week 10
   
@@ -280,17 +297,18 @@ Recording
 ![Image 1](https://github.com/2449288/MCA-2022/blob/master/similaritymatrix2.png)
 ![Image 2](https://github.com/2449288/MCA-2022/blob/master/similaritymatrixWEEK10.png)
   
-##  **Task 2: Transcription
-Open your piece of music from Week 2 in MuseScore. Export it as a WAV file and as an image file.  Open the WAV file in SonicVisualizer.  Transcribe the file using the same process as the Group activity on Tuesday.  Open the MIDI file in MuseScore. Export it as an image.  In your portfolio, display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)**
+##  **Task 2: Transcription**
+
+*Open your piece of music from Week 2 in MuseScore. Export it as a WAV file and as an image file.  Open the WAV file in SonicVisualizer.  Transcribe the file. Open the MIDI file in MuseScore. Export it as an image.  In your portfolio, display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)*
 
   
-*Image of score pre-transcription*
+**Image of score pre-transcription**
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/four%20seasonsIMAGEWEEK10-2.png)
 
 
-*Image of score post-transcription*
+**Image of score post-transcription**
 
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-1.png)
 ![Image file 1](https://github.com/2449288/MCA-2022/blob/master/fourseasonstransciptedWEEK10image-2.png)
@@ -302,5 +320,4 @@ There is very little similarity at all between the two files.  A first look, the
 When listening again, you predominantly here clashes and dissonances, not the tuneful melody of the famous Vivaldi piece.  Despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches. For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers-quaver motif in the first full bar of both the original and the transcripted version. 
   
 Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
- 
  
