@@ -153,8 +153,6 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 ***3.** In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
 
-***4.** Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
-
 
 
 ### **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
@@ -191,9 +189,9 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ![Spectrogramtrack3](https://user-images.githubusercontent.com/114147824/201955409-332fde57-6978-4af3-afd2-f3ace62c64f0.png)
 
   
-  **Time-frequency analysis vs Waveform analaysis**
+  **Time-frequency analysis vs Waveform analaysis Advantages**
   
-A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  T gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  In my examples above, the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
+A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  It gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  *In my examples above,* the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
 
 # Week 9 
 
