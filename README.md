@@ -285,7 +285,7 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 ***3.** For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
 
 
-### **MFCC**
+### **MFCC Histograms**
   
   
   **Spring Movement 1**
@@ -305,7 +305,7 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   ![springmvt3historgrammfcc](https://user-images.githubusercontent.com/114147824/205099341-b7a6c4a2-86da-4258-998c-4f7afd82384b.png)
 
 
-### **Chromagram**
+### **Chromagram Histograms**
   
   
   **Spring Movement 1**
