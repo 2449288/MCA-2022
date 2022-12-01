@@ -1,5 +1,3 @@
-<div style="text-align:center">
-  
   
 # MCA Project
 ## 2449288
@@ -301,8 +299,5 @@ There is very little similarity at all between the two files.  A first look, the
 When listening again, you predominantly here clashes and dissonances, not the tuneful melody of the famous Vivaldi piece.  Despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches. For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers-quaver motif in the first full bar of both the original and the transcripted version. 
   
 Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
-  
-
- </div>
-
+ 
  
