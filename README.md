@@ -23,7 +23,7 @@
 **Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
 ## Antonio Vavaldi (1678 - 1741)
-![vivaldi photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20photo.jpg)
+![vivaldi photo](https://user-images.githubusercontent.com/114147824/205097569-5ee40497-ae18-4860-83f9-4da9f506b69e.jpg)
 >Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the four seasons.**  
 
 
@@ -200,6 +200,19 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 ***1.** Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)*
 
+
+### **Recordings downloaded**
+
+
+![image](https://user-images.githubusercontent.com/114147824/205101775-e07e91ee-8d90-48fb-b1e3-db1ae3f31ad1.png)
+
+
+>Music track 1: Vivaldi Four Seasons, Spring, Movement 1 (Allegro)
+>Music track 2: Vivaldi Four Seasons, Spring, Movement 2 (Largo)
+>Music track 3: Vivaldi Four Seasons, Spring, Movement 3 (Allegro Pastorale)
+
+**[All from Free Music Archive website](https://freemusicarchive.org/music/John_Harrison_with_the_Wichita_State_University_Chamber_Players/The_Four_Seasons_Vivaldi)**
+
 ***2.** For each track:*
 
 *Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram*
@@ -211,43 +224,43 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   
   *Spring Movement 1*
   
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/spring%20mvt1%20spectrogram.png)
+![spring mvt1 spectrogram](https://user-images.githubusercontent.com/114147824/205098282-0b6e91ae-a1b5-4307-94dd-838ebad1538f.png)
   
   *Spring Movement 2*
   
-![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2spegrtrogramimage.png)
+![springmvt2spegrtrogramimage](https://user-images.githubusercontent.com/114147824/205098180-24d7f8a3-10e4-43d8-9da4-ac83601287c2.png)
   
   *Spring Movement 3*
   
-![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3spectrogram.png)
+![springmvt3spectrogram](https://user-images.githubusercontent.com/114147824/205098405-8cc51f10-7628-4207-8c20-53b89a6d29ef.png)
 
 ### Mel Frequency Cepstral Coefficients
   
    *Spring Movement 1*
   
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1mfccimage.png)
+![springmvt1mfccimage](https://user-images.githubusercontent.com/114147824/205098519-84f36731-b2ab-42dd-b4f9-04f1cfae0056.png)
   
   *Spring Movement 2*
   
-![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2mfccimage.png)
+![springmvt2mfccimage](https://user-images.githubusercontent.com/114147824/205098577-91c8879a-99a9-4e4c-9fd1-f1de180c8178.png)
   
   *Spring Movement 3*
   
-![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3mfccimage.png)
+![springmvt3mfccimage](https://user-images.githubusercontent.com/114147824/205098635-bb3bb7ee-3d55-4011-b2d0-1b7777f8cbb0.png)
 
 ### Chromagram
   
   *Spring Movement 1*
   
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1chromagramimageUPDATED.png)
+![springmvt1chromagramimageUPDATED](https://user-images.githubusercontent.com/114147824/205098770-95dafd86-3000-413b-91e1-9dfc3a21c336.png)
   
   *Spring Movement 2*
   
-![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt3chromagramimage.png) 
+![sprintmvt2chromagramimage](https://user-images.githubusercontent.com/114147824/205098914-b3b9b140-489d-4ac5-98fa-f5477a0fe118.png) 
   
   *Spring Movement 3*
   
-![Image file 3](https://github.com/2449288/MCA-2022/blob/master/sprintmvt2chromagramimage.png)
+![springmvt3chromagramimage](https://user-images.githubusercontent.com/114147824/205098965-e739ce6b-c014-4462-9251-e1ad1be3b2c6.png)
 
 
 
@@ -268,15 +281,19 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   
   **Spring Movement 1**
   
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/histogrammvt1mfcc.png)
+  ![histogrammvt1mfcc](https://user-images.githubusercontent.com/114147824/205099616-bb3abb93-c7f9-4925-a5d8-9a401e9ef2ec.png)
+  
   
  **Spring Movement 2**
   
-![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2historgrammfcc.png)
+  
+![springmvt2historgrammfcc](https://user-images.githubusercontent.com/114147824/205099565-b438eebf-99c2-4d80-90cb-84ee2453684b.png)
+  
   
  **Spring Movement 3**
-  
-![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgrammfcc.png)
+ 
+ 
+  ![springmvt3historgrammfcc](https://user-images.githubusercontent.com/114147824/205099341-b7a6c4a2-86da-4258-998c-4f7afd82384b.png)
 
 
 ### **Chromagram**
@@ -284,19 +301,21 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   
   **Spring Movement 1**
   
-![Image file 1](https://github.com/2449288/MCA-2022/blob/master/springmvt1histagramchromagram.png)
+  
+![springmvt1histagramchromagram](https://user-images.githubusercontent.com/114147824/205099167-9f459e5a-cd20-42ee-8429-fe964b660ec6.png)
+  
   
 **Spring Movement 2**
+ 
+ 
+![springmvt2histogramchromagram](https://user-images.githubusercontent.com/114147824/205099243-bbfed3d7-6e5c-4e92-a6a2-9100b373f266.png)
   
-![Image file 2](https://github.com/2449288/MCA-2022/blob/master/springmvt2histogramchromagram.png)
   
 **Spring Movement 3**
   
-![Image file 3](https://github.com/2449288/MCA-2022/blob/master/springmvt3historgramchromagram.png)
+  
+![springmvt3historgramchromagram](https://user-images.githubusercontent.com/114147824/205099296-48c7b0bb-bcec-4828-918e-0941227247f6.png)
 
-
-
-### **Recording**
 
 # Week 10
   
