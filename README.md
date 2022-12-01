@@ -282,7 +282,7 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 ***2.** Compute and visualize the histogram of the features for the three tracks*
 
-**3.** For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
+***3.** For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
 
 
 ### **MFCC**
@@ -339,6 +339,15 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 *Open your piece of music from Week 2 in MuseScore. Export it as a WAV file and as an image file.  Open the WAV file in SonicVisualizer.  Transcribe the file. Open the MIDI file in MuseScore. Export it as an image.  In your portfolio, display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)*
 
+
+**Comparison of Results**
+
+There is very little similarity at all between the two files.  A first look, they appear almost the opposite of each.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working. Despite this, the scoring has picked up that there are multiple notes being played, even if transcribed as piano chords.   
+  
+When listening again, you predominantly here clashes and dissonances, not the tuneful melody of the famous Vivaldi piece.  Despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches. For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers-quaver motif in the first full bar of both the original and the transcripted version. 
+  
+Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
+
   
 **Image of score pre-transcription**
 
@@ -350,12 +359,5 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 ![fourseasonstransciptedWEEK10image-1](https://user-images.githubusercontent.com/114147824/205105196-bf9e277e-e723-48ab-ad03-5e47e358d879.png)
 ![fourseasonstransciptedWEEK10image-2](https://user-images.githubusercontent.com/114147824/205105216-b859a32c-3f2a-40bf-aa29-52c4256b09e2.png)
-
-**Comparison of Results**
-
-There is very little similarity at all between the two files.  A first look, they appear almost the opposite of each.  The most obvious difference is the fact the computer recognized the strings as a piano.   Perhaps the number of strings led to this not working. Despite this, the scoring has picked up that there are multiple notes being played, even if transcribed as piano chords.   
   
-When listening again, you predominantly here clashes and dissonances, not the tuneful melody of the famous Vivaldi piece.  Despite incorrectly transcribing the key, (Eb rather than E) if you the notes at face value, it has recognised some of the pitches. For example, the first chord in the transcribed version starts with and E chord, the same with the original version. Furthermore, there are some elements of rhythm that has been picked up including beginning in quavers and the two semiquavers-quaver motif in the first full bar of both the original and the transcripted version. 
-  
-Overall, however this is a fairly unsuccessful transcription, showing the limitations computers have and therefore show there are still areas in music where human input is more effective.  
  
