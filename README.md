@@ -73,7 +73,9 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 # Week 4
 
 
-*TASK: **1.** Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.*
+**TASK:**
+
+***1.** Generate a jSymbolic analysis of your piece. Be sure to export your piece as a MIDI file before trying to run jSymbolic, and select a group of features that you think is most interesting and relevant to your particular piece.*
 
 ***2.** Use the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21.*
 
@@ -144,10 +146,15 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   
 ## **Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
   
-*1. For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.* 
-*2. Export the waveform and spectrogram in an image format for your GitHub portfolio.*
-*3. In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
-*3. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
+***1.** For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.* 
+
+***2.** Export the waveform and spectrogram in an image format for your GitHub portfolio.*
+
+***3.** In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
+
+***4.** Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
+
+
 
 ### **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
   **Waveform**
@@ -192,8 +199,10 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 ## Task 1: Extract features
 
-*1. Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)*
-*2. For each track:*
+***1.** Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)*
+
+***2.** For each track:*
+
 *Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram*
 *Take a screenshot of the panes  (or export the annotation layers as an image)*
 *Save the three annotation layers as individual CSV files (i.e. the raw data)*
@@ -247,9 +256,12 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 
 *For each track and feature type extracted in task 1:*
-*1. In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features*
-*2. Compute and visualize the histogram of the features for the three tracks*
-3. For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
+
+***1.** In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features*
+
+***2.** Compute and visualize the histogram of the features for the three tracks*
+
+**3.** For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
 
 
 ### **MFCC**
