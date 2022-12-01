@@ -125,8 +125,9 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   
 ## **Task 1: Find and describe 3 audio tracks relating to your theme**
   
-*1. Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.*
-*2. Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
+**1.** Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.*
+
+***2.** Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
   
   | Content | Track 1 | Track 2 | Track 3 |
   | :------: | :-----: | :------: | :-------: |
