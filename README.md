@@ -112,9 +112,9 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 # Week 8
   
   
-***Task 1: Find and describe 3 audio tracks relating to your theme**
-- [x] Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
-- [x] Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
+**Task 1: Find and describe 3 audio tracks relating to your theme**
+*1. Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.*
+*2. Identify and list (in a table) the most important technical and non-technical metadata associated with each track.*
   
   | Content | Track 1 | Track 2 | Track 3 |
   | :------: | :-----: | :------: | :-------: |
@@ -132,10 +132,10 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   | **Bits per second** | 64kb/s | 128kb/s | 128kb/s |
   | **Duration** | 12:06 minutes	| 9:26 minutes |	4:01 minutes |
   
-***Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
-- [x]	For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.
-- [x] Export the waveform and spectrogram in an image format for your GitHub portfolio.
-- [x]	In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
+**Task 2: Perform basic analysis of your 3 tracks in SonicVisualizer**
+*1. For each downloaded track, generate a spectrogram (with log-spaced frequency scale) in SonicVisualizer.* 
+*2. Export the waveform and spectrogram in an image format for your GitHub portfolio. 3. In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis.*
+*3. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step*
 
  ## **TRACK 1: Violin Concerto in E major, RV 269 ‘La primavera’**
   **Waveform**
@@ -176,20 +176,18 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   A time-frequency analysis allows you to have a clearer idea of the harmonic spectrum and notes that are present in the audio file. The waveform file can only give you a general idea of what the sound is like and when it starts and stops, or it increases and decreases in volume.  T gives you an idea of the timbre of the music, (the attack, decay, sustain and release) but this alone can tell you very little of what instrument or instruments are present in the recording.  By looking at the fundamental and subsequent frequencies the recording is producing, you can gain an idea of the type or style of instrument that is being used.  In my examples above, the recordings get more vivid in the waveform and spectrograms.  This could be due to the recording quality, however the recording on classical instruments is less resonant than the baroque instruments and the violin spectrograms have weaker fundamentals (strong red areas) than the solo piano.  The single instrument perhaps elevates the accuracy of the spectrogram compared to the group of instruments in the previous recordings.  
 
 # Week 9 
-##Task 1: Extract features
-*Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)
-For each track:
-Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram
-Take a screenshot of the panes  (or export the annotation layers as an image)
-Save the three annotation layers as individual CSV files (i.e. the raw data)*
+## Task 1: Extract features
+*1. Identify and download three music tracks relating to your portfolio theme from an online source (i.e. The Free Music Archive). NOTE - if your theme is centred on one piece of music, then use Audacity to break the recording of your piece into at least three sections (for instance: verse, refrain, bridge)*
+*2. For each track:*
+*Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram*
+*Take a screenshot of the panes  (or export the annotation layers as an image)*
+*Save the three annotation layers as individual CSV files (i.e. the raw data)*
 
 ## Task 2: Compute and visualize features with histograms
-*For each track and feature type extracted in task 1:
-In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features
-Compute and visualize the histogram of the features for the three tracks
-Hint: Take a look at the template on Moodle
-For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)
-Optional - Add more tracks (from outside your portfolio theme) to provide further context for your discussion.*
+*For each track and feature type extracted in task 1:*
+*1. In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features*
+*2. Compute and visualize the histogram of the features for the three tracks*
+3. For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks (max 300 words)*
 
 ## Task 1
 ### Spectrogram
@@ -271,8 +269,8 @@ Recording
 
 # Week 10
   
-## **Task 1: Similarity Matrix
-Open the same Python notebook from Tuesday's group activity.  Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab).  Generate a similarity matrix. This involves:Extracting the Chroma features in SonicVisualizer, Exporting the features as a CSV.  Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio**
+## **Task 1: Similarity Matrix**
+*Open the same Python notebook from Tuesday's group activity.  Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab).  Generate a similarity matrix. This involves:Extracting the Chroma features in SonicVisualizer, Exporting the features as a CSV.  Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio*
   
 *Similarity graphs*
   
