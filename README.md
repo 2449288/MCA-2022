@@ -2,7 +2,9 @@
 # MCA Project
 ## 2449288
 
-![vivaldi four seasons photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20four%20seasons.jpg )| Contents |
+![vivaldi four seasons photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20four%20seasons.jpg )
+
+| Contents |
 | :-----: |
 | [Title and Introduction](https://github.com/2449288/MCA-2022/blob/master/README.md#title-and-introduction)|
 | [Week 1](https://github.com/2449288/MCA-2022/blob/master/README.md#week-1) |
