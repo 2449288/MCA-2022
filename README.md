@@ -202,16 +202,18 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 
 ### **Recordings downloaded**
+**[All from Free Music Archive website](https://freemusicarchive.org/music/John_Harrison_with_the_Wichita_State_University_Chamber_Players/The_Four_Seasons_Vivaldi)**
 
 
-![image](https://user-images.githubusercontent.com/114147824/205101775-e07e91ee-8d90-48fb-b1e3-db1ae3f31ad1.png)
+![image](https://user-images.githubusercontent.com/114147824/205104334-72cea7f0-1fc1-49db-b442-cc58fbcc3760.png)
 
 
 >Music track 1: Vivaldi Four Seasons, Spring, Movement 1 (Allegro)
+>
 >Music track 2: Vivaldi Four Seasons, Spring, Movement 2 (Largo)
+>
 >Music track 3: Vivaldi Four Seasons, Spring, Movement 3 (Allegro Pastorale)
 
-**[All from Free Music Archive website](https://freemusicarchive.org/music/John_Harrison_with_the_Wichita_State_University_Chamber_Players/The_Four_Seasons_Vivaldi)**
 
 ***2.** For each track:*
 
