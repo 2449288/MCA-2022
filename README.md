@@ -2,7 +2,7 @@
 # MCA Project
 ## 2449288
 
-![vivaldi four seasons photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20four%20seasons.jpg )| Contents | ![vivaldi photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20photo.jpg)
+![vivaldi four seasons photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20four%20seasons.jpg )| Contents |
 | :-----: |
 | [Title and Introduction](https://github.com/2449288/MCA-2022/blob/master/README.md#title-and-introduction)|
 | [Week 1](https://github.com/2449288/MCA-2022/blob/master/README.md#week-1) |
@@ -20,7 +20,8 @@
 
 **Theme:  I will be looking at Vivaldi's Violin Concertos, specifically, Vivaldi's Four Seasons**
 
-## Vavaldi (1678 - 1741)
+## Antonio Vavaldi (1678 - 1741)
+![vivaldi photo](https://github.com/2449288/MCA-2022/blob/master/vivaldi%20photo.jpg)
 >Vavaldi's Violin Concertos, specifically _Il Cimento dell'Armonia e dell'Inventione_ translated as _The Contest between Harmony and Invention_ (Op. 8, published in 1725) **This peice is more commonly known for it's first four movements - the four seasons.**  
 
 
