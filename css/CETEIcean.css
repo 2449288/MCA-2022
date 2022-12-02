@@ -1831,7 +1831,7 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::befo
 
 mei-filedesc > mei-titlestmt> mei-composer::before {
   font-weight: bold;
-  content: 'Composer';
+  content: 'Composer and date published: ';
   white-space: pre;
   margin-top: 4em;
 }
@@ -1846,12 +1846,19 @@ mei-pubstmt > mei-address {
 
 mei-filedesc > mei-pubstmt > mei-date::before {
   font-weight: bold;
-  content: "Date published"
-   margin-top: 5em;
+  content: "Date published:"
+  white-space: pre;
+   margin-top: ;
 }
 
 mei-filedesc > mei-pubstmt > mei-date::after {
   display: none;
+}
+mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict::before {
+  font-style: bold;
+  content: "Copyright status: "
+  display: block;
+  margin-top: 0.5em;
 }
 
 mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
