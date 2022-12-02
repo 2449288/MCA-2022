@@ -1829,9 +1829,9 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::befo
   margin-top: 3em;
 }
 
-mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
+mei-filedesc > mei-titlestmt> mei-composer::before {
   font-weight: bold;
-  content: '\a';
+  content: 'Composer';
   white-space: pre;
   margin-top: 4em;
 }
@@ -1846,15 +1846,12 @@ mei-pubstmt > mei-address {
 
 mei-filedesc > mei-pubstmt > mei-date::before {
   font-weight: bold;
-  content: "Date encoded: 01/12/2022"
-   margin-top: 6em;
+  content: "Date published"
+   margin-top: 5em;
 }
 
 mei-filedesc > mei-pubstmt > mei-date::after {
-  font-weight: bold;
-  content: 'Date published: 1725';
-  white-space: pre;
-  margin-top: 5em;
+  display: none;
 }
 
 mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
