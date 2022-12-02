@@ -333,6 +333,8 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 ![springmvt3historgramchromagram](https://user-images.githubusercontent.com/114147824/205099296-48c7b0bb-bcec-4828-918e-0941227247f6.png)
 
 **Comparison of Results**
+
+
 With MFCC graphs focusing on the timbre of the tracks, these are all very similar, accuratly reflectoing that all three tracks arep played by the same group of instruments.  The Chromagram features, on the other hand, have difference, with the second movement chroma feratures standing out.  Because the chroma feature focus on the melody and the demonstrate the amounts of each notes present in a track this makes logic sense.  The second movemobe is quite a contrast melodically, focusing on a slower melofy and different tune to the first movement.  Many of the 11 graphs between moevment 1 and 2 show differing shapes (numbers 1, 2, 3,, 5, 6, 7, 8) whereas in movment 3's chromagram histograms many are similar in shape, apart from 10 and 11, suggesting there are similar melodic lines in movements 1 and 3.  This makes sense when you listen tomovement 3, where you can hear familiar melody lines from movement 1, demonstrating the link between the analytical data and the aubile similarities/differences upon listening. 
 
 # Week 10
