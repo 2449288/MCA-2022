@@ -338,6 +338,8 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
   
 ![springmvt3historgramchromagram](https://user-images.githubusercontent.com/114147824/205099296-48c7b0bb-bcec-4828-918e-0941227247f6.png)
 
+**Comparison of Results**
+
 
 # Week 10
   
