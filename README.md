@@ -128,15 +128,17 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 **Before rendering**
 
+
 ![image](https://user-images.githubusercontent.com/114147824/205288463-e2d2dc50-a44f-435b-baff-81eb8b5e047c.png)
 
 
 **After Rendering**
 
+![image](https://user-images.githubusercontent.com/114147824/205295912-1a7033c2-2f24-4f40-8471-942b68500b7c.png)
 
 
+[`HTML Page link`](https://2449288.github.io/MCA-2022/myMeta.html)
 
-[`HTML Page with Metadata in Header`]()
 
 # Week 8
   
