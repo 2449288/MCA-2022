@@ -115,7 +115,6 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
   [`MEI FILE`](https://github.com/2449288/MCA-2022/blob/master/MEI%20WITHOUT%20COPYRIGHT)
 
 
-
 # Week 7
 
 **Task**
@@ -126,15 +125,10 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ***2.**	Render your revised MEI metadata along with your score on an HTML page.* 
 
 
-**Before rendering**
-
-
-![image](https://user-images.githubusercontent.com/114147824/205288463-e2d2dc50-a44f-435b-baff-81eb8b5e047c.png)
-
-
 **After Rendering**
 
-![image](https://user-images.githubusercontent.com/114147824/205295912-1a7033c2-2f24-4f40-8471-942b68500b7c.png)
+
+![image](https://user-images.githubusercontent.com/114147824/205302141-79ee797b-3e70-4794-a677-a04f75832fd0.png)
 
 
 [`HTML Page link`](https://2449288.github.io/MCA-2022/myMeta.html)
