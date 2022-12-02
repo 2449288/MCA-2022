@@ -124,6 +124,15 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 ***2.**	Render your revised MEI metadata along with your score on an HTML page.* 
 
 
+**Before rendering**
+
+![image](https://user-images.githubusercontent.com/114147824/205288463-e2d2dc50-a44f-435b-baff-81eb8b5e047c.png)
+
+
+**After Rendering**
+
+
+
 
 [`HTML Page with Metadata in Header`]()
 
