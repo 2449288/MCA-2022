@@ -112,7 +112,7 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 4.	Date
 5.	Copyright
   
-  [`MEI FILE with schema and authorities`](https://github.com/2449288/MCA-2022/blob/master/fourseasons%20MEI%20with%20metadata%20schema%20and%20authoritiesEDITED.mei)
+  [`MEI FILE`](https://github.com/2449288/MCA-2022/blob/master/MEI%20WITHOUT%20COPYRIGHT)
 
 
 
@@ -120,6 +120,8 @@ PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022
 
 **Task**
 ***1.**	Create a second version of your MEI file with the updated metadata with enlarged genre classifications, Specific licensing data (consider Creative Commons licenses) and any other metadata values that you think could be enhanced or modified*
+
+['MEI File with copyright added']()
 
 ***2.**	Render your revised MEI metadata along with your score on an HTML page.* 
 
