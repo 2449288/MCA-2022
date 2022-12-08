@@ -80,8 +80,23 @@ Alterations:  had to change instruments to a  voice and then copy and paste the 
 # Week 3
 *TASK:  In the space provided on the verovio.html page, compare 3 elements in the MusicXML file to the corresponding ones in MEI. Think about: which attributes can be employed in each standard, which parents and children can be used, and try to think of the implications of these differences.* 
 
-[`MEI file`](https://github.com/2449288/MCA-2022/blob/master/data/fourseasons.mei) // [`XML File`](https://github.com/2449288/MCA-2022/blob/master/data/four%20seasons.musicxml) //
+[`MEI file`](https://github.com/2449288/MCA-2022/blob/master/data/fourseasons.mei)
+
+
+![image](https://user-images.githubusercontent.com/114147824/206471526-2f190dda-c6f6-4bea-ac0f-26a183876e49.png)
+
+
+[`XML File`](https://github.com/2449288/MCA-2022/blob/master/data/four%20seasons.musicxml) 
+
+
+![image](https://user-images.githubusercontent.com/114147824/206471635-a09a13c0-4747-4346-bf6d-4bae360835d1.png)
+
+
 [`Veroivo File`](https://github.com/2449288/MCA-2022/blob/master/verovio.html)
+
+
+![image](https://user-images.githubusercontent.com/114147824/206471165-ae6bf8f1-5e01-4975-8a04-4c7e599ebe39.png)
+
 
 
 # Week 4
