@@ -55,12 +55,26 @@ Vivaldi, being seen as an important figure and composer, being classified as par
 # Week 2 
 *Task: Download and edit a peice of music on musescore from OMR technology.*
 
+PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022/files/9686016/Four.seasons.spring.pdf.pdf)
+
+
+### OMR results
+
+
+![image](https://user-images.githubusercontent.com/114147824/206470307-62692431-b912-4fbb-9c3c-5503f31a8da4.png)
+
+
+### Corrected score
+
+
+![image](https://user-images.githubusercontent.com/114147824/206470521-3b8e72d8-519b-456a-aa9a-ff14b4859a25.png)
+
+
 ### Observations
 The initial OMR technology was pretty accuratate, specifically in terms of notes, pitches and rhythms. 
 Key elements missing: Metadata such as title, composer etc.  Tempo markings and instrumentation (thought violin was a voice) 
 Alterations:  had to change instruments to a  voice and then copy and paste the material onto the new staves, still the staves were not braced the same as the original, had to spend a bit of time discovering how to brace the staves properly.  The mothod I found that worked was by adding in a piano stave which is already braced then changing the cleffs to the correct forms, however this may cause an issue in playback as the computer may think the sound is still a piano rather than a voice.  Perhaps the editorials functions in Musweascore are limited, perhaops this is due to  my own persoinal lack of knopwlegde of musescore, but overall, whilst the presentation may be correct, the further element of if the music created from musescore out of the PDF was played allowed would it have the desired effect the sheet music presented?  Not in the iniitial case of the OMR, it requitred user intervention to alter the sounds.  There is also a question of aaesthetic or practicality here in the limitations of musescore.  (e.g. braced staves or accurate sounding instrumentation!)
 
-PDF file used: [Four seasons spring pdf.pdf](https://github.com/2449288/MCA-2022/files/9686016/Four.seasons.spring.pdf.pdf)
 
 
 # Week 3
