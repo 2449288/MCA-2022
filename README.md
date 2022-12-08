@@ -111,6 +111,14 @@ Alterations:  had to change instruments to a  voice and then copy and paste the 
 ### Part 1
 
 
+**Features analysed:**
+
+Pitch Class Histogram, Number of Pitches, Number of Pitch Classes, Range, Strong Tonal Centres, Mean Pitch, Mean Pitch Class, Most Common Pitch, Most Common Pitch Class, Interval Between Most Prevalent Pitches, Pitch Variability, and Most Common Melodic Interval.
+
+
+![image](https://user-images.githubusercontent.com/114147824/206473234-a2cb1cbb-4349-452f-81ef-69686f0df1ea.png)
+
+
 [`jSymbolic Analysis Results`](https://github.com/2449288/MCA-2022/blob/master/jsymbolic%20analaysis%20results.xlsb.xlsx)
 
 ### Part 2
