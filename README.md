@@ -157,7 +157,7 @@ Pitch Class Histogram, Number of Pitches, Number of Pitch Classes, Range, Strong
 **Task**
 ***1.**	Create a second version of your MEI file with the updated metadata with enlarged genre classifications, Specific licensing data (consider Creative Commons licenses) and any other metadata values that you think could be enhanced or modified*
 
-['MEI File with copyright added'](https://github.com/2449288/MCA-2022/blob/master/fourseasons%20MEI%20OFFICIAL.mei)
+[`MEI File with copyright added`](https://github.com/2449288/MCA-2022/blob/master/fourseasons%20MEI%20OFFICIAL.mei)
 
 ***2.**	Render your revised MEI metadata along with your score on an HTML page.* 
 
@@ -253,7 +253,7 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 
 
 ### **Recordings downloaded**
-**[All from Free Music Archive website](https://freemusicarchive.org/music/John_Harrison_with_the_Wichita_State_University_Chamber_Players/The_Four_Seasons_Vivaldi)**
+**[`All from Free Music Archive website`](https://freemusicarchive.org/music/John_Harrison_with_the_Wichita_State_University_Chamber_Players/The_Four_Seasons_Vivaldi)**
 
 
 ![image](https://user-images.githubusercontent.com/114147824/205104334-72cea7f0-1fc1-49db-b442-cc58fbcc3760.png)
@@ -264,6 +264,7 @@ A time-frequency analysis allows you to have a clearer idea of the harmonic spec
 >Music track 2: Vivaldi Four Seasons, Spring, Movement 2 (Largo)
 >
 >Music track 3: Vivaldi Four Seasons, Spring, Movement 3 (Allegro Pastorale)
+
 
 
 ***2.** For each track:*
@@ -379,7 +380,9 @@ With MFCC graphs focusing on the timbre of the tracks, these are all very simila
 ## **Task 1: Similarity Matrix**
 *Open the same Python notebook from Tuesday's group activity.  Replace the country tracks with 3 tracks that relate to your portfolio's theme (or the same tracks you used in last week's individual lab).  Generate a similarity matrix. This involves:Extracting the Chroma features in SonicVisualizer, Exporting the features as a CSV.  Save the code and notebook and save the visualization of the similarity matrix as an image for your portfolio*
   
-*Similarity graphs*
+**Similarity graphs**
+
+
   ![similaritymatrixWEEK10](https://user-images.githubusercontent.com/114147824/205105295-5c368c62-3bda-400b-8780-182f650b9f49.png)
 ![similaritymatrix2](https://user-images.githubusercontent.com/114147824/205105352-5878edb0-e8cd-4956-bbe0-49ae6aeefe3f.png)
   
