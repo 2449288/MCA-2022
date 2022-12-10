@@ -217,7 +217,7 @@ Pitch Class Histogram, Number of Pitches, Number of Pitch Classes, Range, Strong
 ![Spectrogramtrack1](https://user-images.githubusercontent.com/114147824/201954605-74e83da8-16f4-40a0-9d67-3352c6f432ba.png)
 
   
-  ### **TRACK 2:  Vivaldi Four Seasons: Winter (L'Inverno)**
+### **TRACK 2:  Vivaldi Four Seasons: Winter (L'Inverno)**
   **Waveform**
   
 ![Waveformtrack2](https://user-images.githubusercontent.com/114147824/201955031-50d9ec6b-8ece-4f84-87a1-b021f3210a95.png)
